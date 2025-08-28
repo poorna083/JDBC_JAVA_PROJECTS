@@ -3,7 +3,6 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Scanner;
-
 public class jdbcCrud {
      public static void main(String[] args) throws Exception {
         jdbcCrud c=new jdbcCrud();
